@@ -1,0 +1,6 @@
+{
+    "#include": "./common.cjson",
+    "logger": {
+        "logToCloudwatch": true
+    }
+}

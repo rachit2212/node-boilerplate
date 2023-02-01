@@ -1,0 +1,9 @@
+/config/config.cjson
+/coverage
+/.nyc_output
+
+# This is where "npm install" installs the backend's dependencies:
+/node_modules/
+
+# Visual studio code
+.vscode/
